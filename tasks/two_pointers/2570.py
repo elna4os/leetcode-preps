@@ -1,4 +1,5 @@
-# Link: https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
+# Difficulty: Easy
+# https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 # Time - O(m + n), Space - O(k) where k is the max ID
 
 from typing import List

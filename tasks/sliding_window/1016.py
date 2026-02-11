@@ -1,3 +1,4 @@
+# Difficulty: Medium
 # https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n
 # Time - O(n * m), Space - O(1) where n is the given number and m is the length of the string s
 
