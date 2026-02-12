@@ -1,4 +1,4 @@
-# Difficulty - Medium
+# Difficulty: Medium
 # https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 # Time - O(m * n^2), Space - O(n)
 
