@@ -1,3 +1,4 @@
+# Hard
 # https://leetcode.com/problems/most-common-course-pairs/
 
 WITH top_performers AS (
